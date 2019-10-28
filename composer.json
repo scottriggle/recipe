@@ -1,0 +1,5 @@
+{
+    "name": "sl/recipe",
+    "description": "Test Scott Module",
+    "type": "drupal-module"
+}
