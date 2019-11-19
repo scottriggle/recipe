@@ -5,7 +5,7 @@ description: Defines a simple recipe field type.
 type: module
 package: Field types
 core: 8.x
-version: 1.0
+version: 1.1
 
 # The list of dependencies must contains the 'field' value
 dependencies:
